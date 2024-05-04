@@ -1,0 +1,23 @@
+{
+  "Version": 1,
+  "Hash": "dxP/ojSyG9nN7aXDhOgT8zLn7d6ugP6OCSumT8xtvX4=",
+  "Source": "SecurityApplication.Server",
+  "BasePath": "_content/SecurityApplication.Server",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [
+    {
+      "Identity": "C:\\Users\\jonah\\Documents\\UP\\COS720_Comp-info_security\\Project\\App\\SecurityApp\\SecurityApp\\SecurityApplication\\securityapplication.client\\securityapplication.client.esproj",
+      "Version": 2,
+      "Source": "securityapplication.client",
+      "GetPublishAssetsTargets": "GetCurrentProjectPublishStaticWebAssetItems",
+      "AdditionalPublishProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalPublishPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier;SelfContained",
+      "GetBuildAssetsTargets": "GetCurrentProjectBuildStaticWebAssetItems",
+      "AdditionalBuildProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalBuildPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier;SelfContained"
+    }
+  ],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
